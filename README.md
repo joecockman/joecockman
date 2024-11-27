@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am an aspiring data analyst who recently completed a 12 week data analytics bootcamp and am now looking to land my first job in this field.
+## I am an aspiring data analyst who recently completed a 12 week data analytics bootcamp and I am now looking to land my first job in this field.
 
 ## The purpose of this profile is to serve as a portfolio of data projects I have created using Microsoft PowerBI, Tableau & SQL.
 
