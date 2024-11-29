@@ -4,6 +4,18 @@
 
 ## The purpose of this profile is to serve as a portfolio of data projects I have created using Microsoft PowerBI, Tableau & SQL.
 
+Please see below some previews of projects I've completed and click into the relevant repository for detailed information on how I put it together.
+
+# Spotify Streaming Data Dashboard
+
+![Spotify Dashboard Preview](Spotify-Streaming-Data-Dashboard.png)
+
+# Cybersecurity Cost Analysis Dashboard
+
+![Cybersecurity Dashboard Preview](Cybersecurity-Dashboard.png)
+
+
+
 <!--
 **joecockman/joecockman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
