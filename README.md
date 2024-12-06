@@ -12,7 +12,7 @@ Please see below some previews of projects I've completed and click the links fo
   
 ⚡ [Spotify Analytics Dashboard](https://github.com/joecockman/Spotify-Analytics-Dashboard): A Tableau dashboard for analysing Spotify streaming data.
   
-⚡ [Air Quality Visualization](https://github.com/yourusername/air-quality-visualization): A Power BI dashboard for analysing air quality data by pollutant.
+⚡ [Global Air Pollution Dashboard](https://github.com/joecockman/Global-Air-Pollution-Dashboard): A Power BI dashboard for analysing air quality data by pollutant.
   
 ⚡ [Cybersecurity Cost Dashboard](https://github.com/joecockman/Cybersecurity-Cost-Dashboard): A PowerBI dashboard for analysing the costs of different cybersecurity solutions.
 
