@@ -10,11 +10,11 @@ Please see below some previews of projects I've completed and click the links fo
 
 ⚡ [Football Analytics Database](https://github.com/joecockman/Football-Analytics-Project): An SQL-based project analyzing an imaginary football league I created, the ELFL.
   
-⚡ [Spotify Analytics Dashboard](https://github.com/joecockman/Spotify-Analytics-Dashboard): A Tableau dashboard for analysing Spotify streaming data.
-  
 ⚡ [Global Air Pollution Dashboard](https://github.com/joecockman/Global-Air-Pollution-Dashboard): A Power BI dashboard for analysing air quality data by pollutant.
   
 ⚡ [Cybersecurity Cost Dashboard](https://github.com/joecockman/Cybersecurity-Cost-Dashboard): A PowerBI dashboard for analysing the costs of different cybersecurity solutions.
+
+⚡ [Spotify Analytics Dashboard](https://github.com/joecockman/Spotify-Analytics-Dashboard): A Tableau dashboard for analysing Spotify streaming data.
 
 
 
