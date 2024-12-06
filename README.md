@@ -1,4 +1,4 @@
-# Welcome to my Github Portfolio 👋
+# 👋 Welcome to my Github Portfolio
 
 I am an aspiring data analyst who recently completed a 12 week data analytics bootcamp and I am now looking to land my first job in this field.
 
@@ -8,13 +8,13 @@ Please see below some previews of projects I've completed and click the links fo
 
 ## My Projects
 
-- [Sports Analytics Database](https://github.com/yourusername/sports-analytics-database): An SQL-based project analyzing an imaginary football league I created, the ELFL.
+⚡ [Sports Analytics Database](https://github.com/yourusername/sports-analytics-database): An SQL-based project analyzing an imaginary football league I created, the ELFL.
   
-- [Spotify Analytics Dashboard](https://github.com/yourusername/spotify-analytics-dashboard): A Tableau dashboard for analysing Spotify streaming data.
+⚡ [Spotify Analytics Dashboard](https://github.com/yourusername/spotify-analytics-dashboard): A Tableau dashboard for analysing Spotify streaming data.
   
-- [Air Quality Visualization](https://github.com/yourusername/air-quality-visualization): A Power BI dashboard for analysing air quality data by pollutant.
+⚡ [Air Quality Visualization](https://github.com/yourusername/air-quality-visualization): A Power BI dashboard for analysing air quality data by pollutant.
   
-- [Cybersecurity Cost Analysis Dashboard]
+⚡ [Cybersecurity Cost Dashboard](https://github.com/joecockman/Cybersecurity-Cost-Dashboard): A PowerBI dashboard for analysing the costs of different cybersecurity solutions.
 
 
 
