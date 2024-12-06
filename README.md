@@ -8,7 +8,7 @@ Please see below some previews of projects I've completed and click the links fo
 
 ## My Projects
 
-⚡ [Sports Analytics Database](https://github.com/yourusername/sports-analytics-database): An SQL-based project analyzing an imaginary football league I created, the ELFL.
+⚡ [Football Analytics Database](https://github.com/joecockman/Football-Analytics-Project): An SQL-based project analyzing an imaginary football league I created, the ELFL.
   
 ⚡ [Spotify Analytics Dashboard](https://github.com/yourusername/spotify-analytics-dashboard): A Tableau dashboard for analysing Spotify streaming data.
   
