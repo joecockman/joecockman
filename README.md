@@ -8,6 +8,8 @@ Please see below some previews of projects I've completed and click the links fo
 
 ## My Projects
 
+⚡ [Chip Sales Data Analysis](https://github.com/joecockman/Chip-Sales-Dataset-Analysis): An analysis of chip sales data using Python.
+
 ⚡ [Medical Insurance Analysis Project](https://github.com/joecockman/Insurance-Cost-Analysis): An analysis of medical insurance data using Python.
 
 ⚡ [The Unknown Lands](https://github.com/joecockman/The-Unknown-Lands): A text-input fantasy adventure game created using Python.
