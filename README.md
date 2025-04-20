@@ -13,6 +13,8 @@ Please see below some previews of projects I've completed and click the links fo
 
 ## My Projects
 
+⚡ [The Runner](https://github.com/joecockman/The-Runner/tree/main): 2D animated game created using the Pygame module.
+
 ⚡ [Quantium VI: Chip Sales Data Analysis - 3](https://github.com/joecockman/Quantium-Virtual-Internship-Chip-Sales-Data-Analysis-3): Final analysis of chip sales data, creating a report to present to the client.
 
 ⚡ [Quantium VI:Chip Sales Data Analysis - 2](https://github.com/joecockman/Chip-Sales-Data-Analysis-2): Further analysis of chip sales data using Python and statistical tests.
