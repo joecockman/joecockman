@@ -6,7 +6,7 @@
 
 
 
-I am an aspiring data analyst who recently completed a 12 week data analytics bootcamp and I am currently studing for a MSc in Computer Science with Data Analytcis at City St George's University.
+I am an aspiring data analyst who recently completed a 12 week data analytics bootcamp and am currently studing for a MSc in Computer Science with Data Analytcis at City St George's University.
 
 The purpose of this profile is to serve as a portfolio of data projects I have created using Microsoft PowerBI, Tableau, SQL & Python, among other data analytics languages and tools.
 
