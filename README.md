@@ -6,9 +6,9 @@
 
 
 
-I am an aspiring data analyst who recently completed a 12 week data analytics bootcamp and I am now looking to land my first job in the field.
+I am an aspiring data analyst who recently completed a 12 week data analytics bootcamp and I am currently studing for a MSc in Computer Science with Data Analytcis at City St George's University.
 
-The purpose of this profile is to serve as a portfolio of data projects I have created using Microsoft PowerBI, Tableau, SQL & Python.
+The purpose of this profile is to serve as a portfolio of data projects I have created using Microsoft PowerBI, Tableau, SQL & Python, among other data analytics languages and tools.
 
 Please see below some previews of projects I've completed and click the links for detailed information on how I put them together.
 
